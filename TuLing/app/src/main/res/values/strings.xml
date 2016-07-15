@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">微软小灵</string>
+    <string name="send">发送</string>
+    <string-array name="welcome_tips">
+        <item>你好</item>
+        <item>天气不错哦</item>
+        <item>美女</item>
+        <item>哇哦</item>
+        <item>恭候多时</item>
+    </string-array>
+</resources>

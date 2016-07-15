@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="content">请输入内容</string>
+    <string name="start">开始</string>
+    <string name="title_activity_display_content">DisplayContent</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
